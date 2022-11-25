@@ -1,3 +1,8 @@
+Спасибо, Иван!
+
+
+
+
 ![](https://git-scm.com/images/logos/downloads/Git-Logo-White.png)
 # Инструкция по работе с GIT
 
